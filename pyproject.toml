@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "request-cluster"
+version = "0.1.0"
+description = ""
+authors = ["JKYovo <1091266393@qq.com>"]
+readme = "README.md"
+packages = [{include = "request_cluster"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
